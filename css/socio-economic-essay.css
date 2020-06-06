@@ -1,0 +1,26 @@
+#header-search-2 .bg {
+    background-image: url('../images/logo-header.jpg');
+    background-repeat: No-repeat;
+    background-position: center top;
+    background-size: cover;
+    opacity: 1;
+}
+
+
+
+#text-2col--1 .bg-wrap {
+	background: #465d62;
+}
+
+
+#text-2col--3 .bg-wrap {
+	background: #465d62;
+}
+
+#text-2col--2 .bg-wrap {}
+
+#text-2col--5 .bg-wrap {
+	background: #465d62;
+}
+
+#text-2col--4 .bg-wrap {}
